@@ -8,18 +8,24 @@ Introdução ao Git e ao GitHub:
 	Comandos básicos para um bom desempenho no terminal:
 		Git GUI -- Interface Gráfica
 		Git CLI -- Command Line Interface
+			
 			Comandos Windows
 				- cd --> navegar entre pastas cd .. retorna para a pasta anterior
 				- dir --> listar diretórios na pasta 
 				- mkdir --> criar uma pasta
-				- del / rmdir
+				- del --> deleta um diretório (pasta)
 				- cls --> limpar o terminal
 				- TAB --> autocomplete
 				- echo hello > (arquivo) --> cria o arquivo caso não tenha na pasta
+			
 			Comandos Linux
 				- cd --> navegar entre pastas cd .. retorna para a pasta anterior
 				- ls --> listar diretórios na pasta
-				- mkdir
-				- rm -rf
+				- mkdir --> cria um diretório
+				- rm -rf --> deleta um diretório
 				- clear ou ctrl + L --> limpar o terminal
 				- echo hello > (arquivo) --> cria o arquivo caso não tenha na pasta
+	
+	Como o é o funcionamento do Git:
+		SHA1 (Secure Hash Algorithm) --> algorítimo de encriptação que gera um conjunto de caracteres
+		identificador de 40 dígitos.
