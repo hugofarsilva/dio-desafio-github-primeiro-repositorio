@@ -1,2 +1,25 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar ouso do Git.
+
+Introdução ao Git e ao GitHub:
+	Importância do Git:
+		O Git é um software de de versionamento de código
+	
+	Comandos básicos para um bom desempenho no terminal:
+		Git GUI -- Interface Gráfica
+		Git CLI -- Command Line Interface
+			Comandos Windows
+				- cd --> navegar entre pastas cd .. retorna para a pasta anterior
+				- dir --> listar diretórios na pasta 
+				- mkdir --> criar uma pasta
+				- del / rmdir
+				- cls --> limpar o terminal
+				- TAB --> autocomplete
+				- echo hello > (arquivo) --> cria o arquivo caso não tenha na pasta
+			Comandos Linux
+				- cd --> navegar entre pastas cd .. retorna para a pasta anterior
+				- ls --> listar diretórios na pasta
+				- mkdir
+				- rm -rf
+				- clear ou ctrl + L --> limpar o terminal
+				- echo hello > (arquivo) --> cria o arquivo caso não tenha na pasta
