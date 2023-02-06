@@ -76,7 +76,7 @@ O Git Bash é um terminal extendido para otimizar ouso do Git.
 
 - ​		**git init** = cria um repositório
 
-​				**configura o git**
+- ​				**configura o git**
 
 ​						git config --global user.email “meu email”
 
