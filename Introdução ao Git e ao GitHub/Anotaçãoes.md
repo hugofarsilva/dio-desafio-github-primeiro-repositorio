@@ -3,7 +3,7 @@ O Git Bash é um terminal extendido para otimizar ouso do Git.
 
 ## Introdução ao Git e ao GitHub:
 
-	### Importância do Git:
+### Importância do Git:
 
 ​	O Git é um softaware de versionamento de código
 
