@@ -34,8 +34,7 @@ O Git Bash é um terminal extendido para otimizar ouso do Git.
 - ​		**cd** = Navegar entre pastas --> cd .. retorna para a pasta anterior
 
 - ​		**ls** = Lista diretórios
-
-​			**ls -a** = mostra arquivos ocultos
+  - ​	**ls -a** = mostra arquivos ocultos
 
 - ​		**mkdir** = Cria uma pasta
 
@@ -75,8 +74,7 @@ O Git Bash é um terminal extendido para otimizar ouso do Git.
 **No git bash**
 
 - ​		**git init** = cria um repositório
-
-- ​				**configura o git**
+  - ​	**configura o git**
 
 ​						git config --global user.email “meu email”
 
