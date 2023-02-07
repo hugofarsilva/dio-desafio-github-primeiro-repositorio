@@ -46,6 +46,8 @@ O Git Bash é um terminal extendido para otimizar ouso do Git.
 
 - **echo hello > (arquivo)** = Cria o arquivo caso não tenha na pasta
 
+- **mv “arquivo” ./“diretório”** = move arquivos em um diretório para outro diretório
+
 ### Como é o funcionamento do Git:
 
 ​	SHA1 (Secure Hash Algorithm) = algorítimo de encriptação que gera um conjunto de caracteres.
@@ -82,6 +84,13 @@ O Git Bash é um terminal extendido para otimizar ouso do Git.
     - git config --global user.name meu usuário
 
 - **git add**
+  - git add *
+
+  - git add .
+
+  - git add nome_arquivo
 
 - **git commit**
+  - git commit -m “adicionar comentários”
+
 
