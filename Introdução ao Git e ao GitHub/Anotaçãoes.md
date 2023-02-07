@@ -77,12 +77,11 @@ O Git Bash é um terminal extendido para otimizar ouso do Git.
 
 - **git init** = cria um repositório
 
-  - **configura o git**
-
-    - git config --global user.email “meu email”
-
-    - git config --global user.name meu usuário
-
+  - **configura o git** > sempre usar e-mail e usuários utilizados no GitHub
+  - git config --global user.email “meu e-mail”
+    
+  - git config --global user.name “meu usuário”
+  
 - **git add**
   - git add *
 
@@ -92,5 +91,12 @@ O Git Bash é um terminal extendido para otimizar ouso do Git.
 
 - **git commit**
   - git commit -m “adicionar comentários”
+
+- **git remote** > adiciona meu repositório remoto à minha máquina local
+  - git remote add origin “url do repositório no GitHub”
+
+- **git push** > manda o repositório da minha máquina local para o GitHub
+
+- **git pull** > pega o repositório modificado no GitHub pra mesclar com o repositório alterado na minha máquina local.
 
 
